@@ -80,7 +80,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: phantom
 
-oogle_analytics: UA-90536291-1
+google_analytics: UA-90536291-1
 tencent_analytics: 60497512
 google_site_verification: zQde3w0NPwsFwh1MBztPlOFIjdam6vEdxgvHaHBFNV8
 qihu_site_verification: e8309a9e872143a12e795d4061e302d4
@@ -92,7 +92,7 @@ robotstxt:
   disallow:
     - /README.md
     - /LICENSE.md
-  sitemap: http://blog.marryto.me/sitemap.xml
+  sitemap: https://blog.marryto.me/sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -100,7 +100,6 @@ deploy:
   type: git
   repository:
     github: git@github.com:virgoone/virgoone.github.io.git
-    coding: git@git.coding.net:koyasite/koyasite.git
   branch: master
 feed:
   type: atom
