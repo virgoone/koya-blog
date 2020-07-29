@@ -20,12 +20,12 @@ comments: flase
 }
 ```
 ### 关于我
-目前工作在上海，杨浦区，工作在流利说，主要在做懂你英语业务组相关前端工作=>[https://www.liulishuo.com](https://www.liulishuo.com)
+郭帅兵，目前在上海，杨浦区，在流利说工作，主要在做懂你英语和流利阅读业务组相关前端工作=>[https://www.liulishuo.com](https://www.liulishuo.com)
 
 
 ### 个人信息
 
-- 工作年限：4年
+- 工作年限：5年
 - 博客：https://blog.marryto.me
 - Github：https://github.com/virgoone
 ---
@@ -177,7 +177,7 @@ PC：[http://sdkcdn.videojj.com/liveos-sdk/test.html](http://sdkcdn.videojj.com/
 - Web开发：Java/Node
 - Web框架：Koa/express
 - 前端框架：ReactJS/HTML5/Antd
-- 前端工具：Webpack/Gulp/SaSS/LeSS/CssModules
+- 前端工具：Webpack/Gulp/Sass/Less/CSSModules
 - 数据库相关：MySQL/Mongodb
 - 版本管理工具：git
 - 系统：Ubuntu/Mac
