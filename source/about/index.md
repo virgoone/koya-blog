@@ -20,8 +20,11 @@ comments: flase
 }
 ```
 ### 关于我
-郭帅兵，目前在上海，杨浦区，在流利说工作，主要在做懂你英语和流利阅读业务组相关前端工作=>[https://www.liulishuo.com](https://www.liulishuo.com)
 
+郭帅兵，目前在上海，杨浦区，在流利说工作
+
+主要负责流利阅读商业化前端开发⼯作和技术专项，负责搭建前端项⽬监控⾯板和线上服务错误追踪、
+异常报警等
 
 ### 个人信息
 
@@ -29,7 +32,6 @@ comments: flase
 - 博客：https://blog.marryto.me
 - Github：https://github.com/virgoone
 ---
-
 
 ### 工作经历
 
