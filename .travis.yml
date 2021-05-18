@@ -12,10 +12,10 @@ branches:
 before_install:
   - npm install -g hexo-cli
 install:
-- yarn install
+- npm install
 script:
 - hexo clean
-- yarn run build
+- npm run build
 after_script:
   - cd ./public
   - git init
