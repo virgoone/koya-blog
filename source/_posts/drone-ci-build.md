@@ -10,7 +10,6 @@ tags:
 cover_detail: https://m-staticcdn.annatarhe.com//blog/5b1a7ecc2215b.jpg
 cover_index: https://m-staticcdn.annatarhe.com//blog/5b1a7ecc2215b.jpg
 subtitle: 集成Gitea和Drone-CI之解放生产力
-permalink: drone-ci-build
 ---
 
 上一篇我们搭建了自己的Git服务器 [搭建自己的Git服务器-Gitea安装教程](/build-own-git-server)， 搭建Git之后，想找一个能解放生产力的工具

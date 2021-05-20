@@ -9,7 +9,6 @@ tags:
 categories:
   - 2017
   - 数码
-permalink: css-dark-theme
 keywords:
   - Mac,theme,Dark,Github,dark theme,暗黑,暗黑模式,css
 cover_detail: https://m-staticcdn.annatarhe.com//blog/5b1a7ecd3722e.jpg

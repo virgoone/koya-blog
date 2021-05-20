@@ -6,7 +6,6 @@ tags:
   - 前端
   - Virtual DOM
   - 转载
-permalink: go-into-virtual-dom
 categories:
   - 2017
   - Virtual DOM
