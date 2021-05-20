@@ -9,7 +9,6 @@ tags:
 cover_detail: https://m-staticcdn.annatarhe.com//blog/poster/qtxbmx321qp.jpg
 cover_index: https://m-staticcdn.annatarhe.com//blog/poster/qtxbmx321qp.jpg
 subtitle: 如何搭建自己的Git服务器
-permalink: build-own-git-server
 ---
 
 好久没有写过博客了，续费域名时突然想起来有个博客已经很久未更新了

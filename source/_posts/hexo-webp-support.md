@@ -8,7 +8,6 @@ tags:
 categories:
   - 2017
   - hexo
-permalink: hexo-webp-support
 keywords:
   - Hexo,webp,延迟加载,性能优化,lzyload,jquery,移动Web,谷歌,图片格式,图片加载
 cover_detail: https://m-staticcdn.annatarhe.com//blog/5b1a7ecc399f3.jpg

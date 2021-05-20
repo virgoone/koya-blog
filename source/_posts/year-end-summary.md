@@ -9,11 +9,10 @@ tags:
 categories:
   - 2017
   - 总结
-permalink: year-end-summary
 cover_detail: https://m-staticcdn.annatarhe.com//blog/5b1a7ecd3722e.jpg
 cover_index: https://m-staticcdn.annatarhe.com//blog/5b1a7ecd3722e.jpg
-
 ---
+
 今天是17年的1.21号，按农历算也已经到腊月二十四了
 
 刚过完小年，对我来说，今天也是我在现在的公司[Video++](https://videojj.com)的第二年的最后一天，以前呢也从来不会想到会在一个公司待这么长的时间

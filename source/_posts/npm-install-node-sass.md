@@ -7,8 +7,6 @@ tags:
   - node-sass
 cover_detail: https://m-staticcdn.annatarhe.com//blog/5b1a7ecd3722e.jpg
 cover_index: https://m-staticcdn.annatarhe.com//blog/5b1a7ecd3722e.jpg
-permalink: node-install-node-sass
-
 ---
 
 最近安装 node-sass 的时候总是会各种不成功
