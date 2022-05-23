@@ -72,20 +72,31 @@
 
 	.banner {
 		width: 100%;
-		background: #000;
+		height: 36px;
+    background-color: rgb(27, 196, 125);
 		color: #fff;
-		height: 50px;
 		display: flex;
 		align-items: center;
+		position: sticky;
+		top: 0;
+		left: 0;
+		z-index: 999;
 	}
 	.banner .inner {
 		width: 100%;
 		max-width: 1024px;
+		font-size: 16px;
 		margin: 0 auto;
 		padding: 0 1rem;
 		display: flex;
 		align-items: center;
 		justify-content: center;
+		a {
+			font-size: 16px;
+			font-weight: bold;
+			display: inline-flex;
+			color: #FFF;
+		}
 	}
 	.banner .inner p{
 		color: #fff;
